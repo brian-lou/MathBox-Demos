@@ -1,14 +1,6 @@
 # Mathbox-Demos
 
-I recommend **do not use** the code in this repository. This repository contains my very initial explorations toward creating a web-based 3d graphing tool using [MathBox](https://github.com/unconed/mathbox). This project eventually became [Math3d.org](https://math3d.org)
-
-Instead, I suggest:
-
-- For a web-based, 3d visualization tool using MathBox try [Math3d.org](https://www.math3d.org)
-  - repo at https://github.com/ChristopherChudzicki/math3d-react
-- For low-level MathBox examples, see the [MathBox Repository](https://github.com/unconed/mathbox)
-- For interactive MathBox examples, see [Lee Stemkoski's Github Page](https://github.com/stemkoski/stemkoski.github.com)
-
+Used to generate 3D coordinates of parametric equations.
 
 ## Tools from this Repo
 
